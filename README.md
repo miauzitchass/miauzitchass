@@ -33,10 +33,9 @@ laura:
   linguagens_dominadas: ["Python", "Java"]
   aprendendo_agora: ["C"]
   foco_atual: "Backend com Java"
-  personalidade: "kawaii core + cyberpunk mind 🌷🩵"
   missao: >
     Construir sistemas robustos, elegantes
-    e cheios de fofura no processo ✨
+    e funcionais ✨
 ```
 
 </td>
