@@ -180,7 +180,6 @@ laura@dev-mode:~$ _
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <!-- SNAKE CONTRIBUTION ANIMATION -->
-## 🐍 <code>~/contribution_snake</code>
 
 <div align="center">
 
