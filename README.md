@@ -90,23 +90,9 @@ laura:
 
 <div align="center">
 
-<a href="https://github.com/miauzitchass/projeto-um">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=miauzitchass&repo=projeto-um&theme=radical&title_color=FF9ACB&text_color=C8A2FF&icon_color=FFB6D9&bg_color=1a1a2e&border_color=FF9ACB&hide_border=false" />
+<a href="https://github.io/miauzitchass/site-ia">
+<img src="https://github-readme-stats-rf78.vercel.app/api/pin/?username=miauzitchass&repo=site-ia&theme=radical&title_color=FF9ACB&text_color=C8A2FF&icon_color=FFB6D9&bg_color=1a1a2e&border_color=FF9ACB&hide_border=false" />
 </a>
-<a href="https://github.com/miauzitchass/projeto-dois">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=miauzitchass&repo=projeto-dois&theme=radical&title_color=FF9ACB&text_color=C8A2FF&icon_color=FFB6D9&bg_color=1a1a2e&border_color=FF9ACB&hide_border=false" />
-</a>
-
-<br/>
-
-<a href="https://github.com/miauzitchass/projeto-tres">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=miauzitchass&repo=projeto-tres&theme=radical&title_color=FF9ACB&text_color=C8A2FF&icon_color=FFB6D9&bg_color=1a1a2e&border_color=FF9ACB&hide_border=false" />
-</a>
-<a href="https://github.com/miauzitchass/projeto-quatro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=miauzitchass&repo=projeto-quatro&theme=radical&title_color=FF9ACB&text_color=C8A2FF&icon_color=FFB6D9&bg_color=1a1a2e&border_color=FF9ACB&hide_border=false" />
-</a>
-
-<sub>💡 Substitua <code>projeto-um</code>, <code>projeto-dois</code>... pelos nomes reais dos seus repositórios</sub>
 
 </div>
 
