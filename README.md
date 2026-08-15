@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=laura&label=SYSTEM%20ACCESS%20COUNT&color=ff9acb&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=miauzitchass&label=SYSTEM%20ACCESS%20COUNT&color=ff9acb&style=for-the-badge)
 <img src="https://img.shields.io/badge/STATUS-ONLINE-ff9acb?style=for-the-badge&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/CORE-JARVIS.EXE-c8a2ff?style=for-the-badge&labelColor=1a1a2e"/>
 
@@ -104,20 +104,20 @@ laura:
 
 <div align="center">
 
-<a href="https://github.com/laura/projeto-um">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=laura&repo=projeto-um&theme=radical&title_color=FF9ACB&text_color=C8A2FF&icon_color=FFB6D9&bg_color=1a1a2e&border_color=FF9ACB&hide_border=false" />
+<a href="https://github.com/miauzitchass/projeto-um">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=miauzitchass&repo=projeto-um&theme=radical&title_color=FF9ACB&text_color=C8A2FF&icon_color=FFB6D9&bg_color=1a1a2e&border_color=FF9ACB&hide_border=false" />
 </a>
-<a href="https://github.com/laura/projeto-dois">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=laura&repo=projeto-dois&theme=radical&title_color=FF9ACB&text_color=C8A2FF&icon_color=FFB6D9&bg_color=1a1a2e&border_color=FF9ACB&hide_border=false" />
+<a href="https://github.com/miauzitchass/projeto-dois">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=miauzitchass&repo=projeto-dois&theme=radical&title_color=FF9ACB&text_color=C8A2FF&icon_color=FFB6D9&bg_color=1a1a2e&border_color=FF9ACB&hide_border=false" />
 </a>
 
 <br/>
 
-<a href="https://github.com/laura/projeto-tres">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=laura&repo=projeto-tres&theme=radical&title_color=FF9ACB&text_color=C8A2FF&icon_color=FFB6D9&bg_color=1a1a2e&border_color=FF9ACB&hide_border=false" />
+<a href="https://github.com/miauzitchass/projeto-tres">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=miauzitchass&repo=projeto-tres&theme=radical&title_color=FF9ACB&text_color=C8A2FF&icon_color=FFB6D9&bg_color=1a1a2e&border_color=FF9ACB&hide_border=false" />
 </a>
-<a href="https://github.com/laura/projeto-quatro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=laura&repo=projeto-quatro&theme=radical&title_color=FF9ACB&text_color=C8A2FF&icon_color=FFB6D9&bg_color=1a1a2e&border_color=FF9ACB&hide_border=false" />
+<a href="https://github.com/miauzitchass/projeto-quatro">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=miauzitchass&repo=projeto-quatro&theme=radical&title_color=FF9ACB&text_color=C8A2FF&icon_color=FFB6D9&bg_color=1a1a2e&border_color=FF9ACB&hide_border=false" />
 </a>
 
 <sub>💡 Substitua <code>projeto-um</code>, <code>projeto-dois</code>... pelos nomes reais dos seus repositórios</sub>
@@ -153,16 +153,16 @@ laura@dev-mode:~$ _
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=laura&show_icons=true&theme=radical&title_color=FF9ACB&icon_color=FFB6D9&text_color=C8A2FF&bg_color=1a1a2e&border_color=FF9ACB&hide_border=false&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laura&layout=compact&theme=radical&title_color=FF9ACB&text_color=C8A2FF&bg_color=1a1a2e&border_color=FF9ACB&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=miauzitchass&show_icons=true&theme=radical&title_color=FF9ACB&icon_color=FFB6D9&text_color=C8A2FF&bg_color=1a1a2e&border_color=FF9ACB&hide_border=false&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miauzitchass&layout=compact&theme=radical&title_color=FF9ACB&text_color=C8A2FF&bg_color=1a1a2e&border_color=FF9ACB&hide_border=false"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=laura&theme=radical&hide_border=false&background=1a1a2e&ring=FF9ACB&fire=FFB6D9&currStreakLabel=C8A2FF&sideLabels=C8A2FF&dates=C8A2FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=miauzitchass&theme=radical&hide_border=false&background=1a1a2e&ring=FF9ACB&fire=FFB6D9&currStreakLabel=C8A2FF&sideLabels=C8A2FF&dates=C8A2FF"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=laura&theme=react-dark&bg_color=1a1a2e&color=C8A2FF&line=FF9ACB&point=FFB6D9&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=miauzitchass&theme=react-dark&bg_color=1a1a2e&color=C8A2FF&line=FF9ACB&point=FFB6D9&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -173,7 +173,7 @@ laura@dev-mode:~$ _
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=laura&theme=radical&no-frame=true&no-bg=false&margin-w=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=miauzitchass&theme=radical&no-frame=true&no-bg=false&margin-w=10&column=7"/>
 
 </div>
 
@@ -184,7 +184,7 @@ laura@dev-mode:~$ _
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/laura/laura/output/snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/miauzitchass/miauzitchass/output/snake-dark.svg" width="100%"/>
 
 <sub>🌷 Ative o workflow do <b>Snake Animation</b> no seu repositório para gerar essa animação automaticamente (veja instruções no rodapé).</sub>
 
@@ -197,16 +197,16 @@ laura@dev-mode:~$ _
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/laura" target="_blank">
+<a href="https://www.linkedin.com/in/miauzitchass" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-FFB6D9?style=for-the-badge&logo=linkedin&logoColor=1a1a2e"/>
 </a>
-<a href="https://instagram.com/laura" target="_blank">
+<a href="https://instagram.com/_y8mii" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-FF9ACB?style=for-the-badge&logo=instagram&logoColor=1a1a2e"/>
 </a>
-<a href="mailto:laura@email.com" target="_blank">
+<a href="mailto:laura.moreiira19@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-C8A2FF?style=for-the-badge&logo=gmail&logoColor=1a1a2e"/>
 </a>
-<a href="https://discord.com/users/laura" target="_blank">
+<a href="https://discord.com/users/yumiivlr" target="_blank">
 <img src="https://img.shields.io/badge/Discord-FFB6D9?style=for-the-badge&logo=discord&logoColor=1a1a2e"/>
 </a>
 
