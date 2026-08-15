@@ -186,8 +186,6 @@ laura@dev-mode:~$ _
 
 <img src="https://raw.githubusercontent.com/miauzitchass/miauzitchass/output/snake-dark.svg" width="100%"/>
 
-<sub>🌷 Ative o workflow do <b>Snake Animation</b> no seu repositório para gerar essa animação automaticamente (veja instruções no rodapé).</sub>
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
