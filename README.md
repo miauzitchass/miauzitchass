@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER PRINCIPAL - EFEITO DE INICIALIZAÇÃO DO SISTEMA -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D9,50:FF9ACB,100:C8A2FF&height=280&section=header&text=SYSTEM.LAURA_%E2%9C%A8&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Booting%20up%20a%20Backend%20Dev%20~%20Java%20%2B%20Python%20%2B%20C&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6D9,50:FF9ACB,100:C8A2FF&height=280&section=header&text=SYSTEM.LAURA_%E2%9C%A8&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Booting%20up%20a%20Backend%20Dev&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
@@ -60,21 +60,15 @@ laura:
 
 ### 💻 Linguagens
 
-<img src="https://img.shields.io/badge/Python-FFB6D9?style=for-the-badge&logo=python&logoColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Java-FF9ACB?style=for-the-badge&logo=openjdk&logoColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/C-C8A2FF?style=for-the-badge&logo=c&logoColor=1a1a2e"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js&theme=dark" />
 
 ### 🌷 Backend & Frameworks
 
-<img src="https://img.shields.io/badge/Spring_Boot-FFB6D9?style=for-the-badge&logo=springboot&logoColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Flask-FF9ACB?style=for-the-badge&logo=flask&logoColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/FastAPI-C8A2FF?style=for-the-badge&logo=fastapi&logoColor=1a1a2e"/>
+<img src="https://skillicons.dev/icons?i=spring,flask,fastapi&theme=dark"/>
 
 ### 🗄️ Banco de Dados
 
-<img src="https://img.shields.io/badge/MySQL-FFB6D9?style=for-the-badge&logo=mysql&logoColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/PostgreSQL-FF9ACB?style=for-the-badge&logo=postgresql&logoColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/MongoDB-C8A2FF?style=for-the-badge&logo=mongodb&logoColor=1a1a2e"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark"/>
 
 </div>
 
@@ -85,14 +79,7 @@ laura:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Git-FFB6D9?style=for-the-badge&logo=git&logoColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/GitHub-FF9ACB?style=for-the-badge&logo=github&logoColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/VS_Code-C8A2FF?style=for-the-badge&logo=visualstudiocode&logoColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-FFB6D9?style=for-the-badge&logo=intellijidea&logoColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Postman-FF9ACB?style=for-the-badge&logo=postman&logoColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Docker-C8A2FF?style=for-the-badge&logo=docker&logoColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Linux-FFB6D9?style=for-the-badge&logo=linux&logoColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Figma-FF9ACB?style=for-the-badge&logo=figma&logoColor=1a1a2e"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,idea,figma&theme=dark" />
 
 </div>
 
