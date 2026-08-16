@@ -90,8 +90,8 @@ laura:
 
 <div align="center">
 
-<a href="https://github.io/miauzitchass/site-ia">
-<img src="https://github-readme-stats-rf78.vercel.app/api/pin/?username=miauzitchass&repo=site-ia&theme=radical&title_color=FF9ACB&text_color=C8A2FF&icon_color=FFB6D9&bg_color=1a1a2e&border_color=FF9ACB&hide_border=false" />
+<a href="https://miauzitchass.github.io/site-ia/">
+<img src="https://github-readme-stats-rf78.vercel.app/api/pin/?username=miauzitchass&repo=site-ia&theme=radical&title_color=FF9ACB&text_color=C8A2FF&icon_color=FFB6D9&bg_color=1a1a2e&border_color=FF9ACB&hide_border=false&cache=0%" />
 </a>
 
 </div>
